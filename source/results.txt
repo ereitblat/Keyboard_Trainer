@@ -6,12 +6,6 @@ Amount of symbols per minute: 184.0, Amount of words per minute: 26.0
 2024-04-17
 Amount of symbols per minute: 285.0, Amount of words per minute: 46.0
 
-2024-04-18
-Amount of symbols per minute: 180.0, Amount of words per minute: 25.0
-
-2024-04-18
-Amount of symbols per minute: 200.0, Amount of words per minute: 28.0
-
-2024-04-18
-Amount of symbols per minute: 110.0, Amount of words per minute: 15.0
+2024-04-25
+Amount of symbols per minute: 209.0, Amount of words per minute: 29.0
 
